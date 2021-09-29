@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinforiver=self.webpackChunkinforiver||[]).push([[5034],{9701:function(o){o.exports=JSON.parse('{"allTagsPath":"/inforiverdocs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/inforiverdocs/blog/tags/hola"}')}}]);

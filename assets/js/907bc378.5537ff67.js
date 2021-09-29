@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinforiver=self.webpackChunkinforiver||[]).push([[3636],{6596:function(s){s.exports=JSON.parse('{"allTagsPath":"/inforiverdocs/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/inforiverdocs/blog/tags/docusaurus"}')}}]);
